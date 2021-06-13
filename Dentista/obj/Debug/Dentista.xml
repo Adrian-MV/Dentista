@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dentista
+</name>
+</assembly>
+<members>
+<member name="M:Dentista.Modificar.TextBox2_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Modificar.TextBox3_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Modificar.TextBox4_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Modificar.TextBox5_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Agendar_Nueva_Cita.TextBox2_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Agendar_Nueva_Cita.TextBox3_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Agendar_Nueva_Cita.TextBox4_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="M:Dentista.Agendar_Nueva_Cita.TextBox5_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ÍNGRESAR PUROS NUMEROS''''
+
+</member><member name="P:Dentista.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Dentista.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Dentista.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

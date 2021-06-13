@@ -1,0 +1,16 @@
+C:\Users\ADRIAN-MV\AppData\Local\Temporary Projects\Dentista\bin\Debug\Dentista.exe.config
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\bin\Debug\Dentista.exe.config
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\bin\Debug\Dentista.exe
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\bin\Debug\Dentista.pdb
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\bin\Debug\Dentista.xml
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.Inicio.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.Resources.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.vbproj.GenerateResource.Cache
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.exe
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.xml
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.pdb
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.MDI.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.Agendar_Nueva_Cita.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.ConsultarEliminar.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.Modificar.resources
+C:\Users\ADRIAN-MV\Documents\Visual Studio 2012\Projects\Dentista\Dentista\obj\Debug\Dentista.Ayuda.resources
